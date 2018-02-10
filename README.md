@@ -6,10 +6,10 @@ Here is the code of MStream and MStreamF.
 
 The datasets are in format of JSON like follows:
 
-{"tweetId": "006218", "clusterNo": 8, "textCleaned": "scottish independence alistair carmichael issue complacency warning"}
-{"tweetId": "000071", "clusterNo": 40, "textCleaned": "doggie scofflaw bagged dna testing"}
-{"tweetId": "000015", "clusterNo": 1, "textCleaned": "challenge china airspace"}
-{"tweetId": "008096", "clusterNo": 86, "textCleaned": "western michigan northern illinois key victory bronco"}
+    {"tweetId": "006218", "clusterNo": 8, "textCleaned": "scottish independence alistair carmichael issue complacency warning"}
+    {"tweetId": "000071", "clusterNo": 40, "textCleaned": "doggie scofflaw bagged dna testing"}
+    {"tweetId": "000015", "clusterNo": 1, "textCleaned": "challenge china airspace"}
+    {"tweetId": "008096", "clusterNo": 86, "textCleaned": "western michigan northern illinois key victory bronco"}
 
 ## Outputs
 
