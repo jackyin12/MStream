@@ -7,10 +7,10 @@ The code is written by python3.6 with no dependence.
 
 The datasets are in format of JSON like follows:
 
-    {"tweetId": "006218", "clusterNo": 8, "textCleaned": "scottish independence alistair carmichael issue complacency warning"}
-    {"tweetId": "000071", "clusterNo": 40, "textCleaned": "doggie scofflaw bagged dna testing"}
-    {"tweetId": "000015", "clusterNo": 1, "textCleaned": "challenge china airspace"}
-    {"tweetId": "008096", "clusterNo": 86, "textCleaned": "western michigan northern illinois key victory bronco"}
+    {"Id": "006218", "clusterNo": 8, "textCleaned": "scottish independence alistair carmichael issue complacency warning"}
+    {"Id": "000071", "clusterNo": 40, "textCleaned": "doggie scofflaw bagged dna testing"}
+    {"Id": "000015", "clusterNo": 1, "textCleaned": "challenge china airspace"}
+    {"Id": "008096", "clusterNo": 86, "textCleaned": "western michigan northern illinois key victory bronco"}
 
 
 ## Outputs
